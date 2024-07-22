@@ -26,6 +26,10 @@ public class typeconversion {
         int result = h*j;
         System.out.println(result);
 
+        int k=23;
+        byte l=10;
+        System.out.println(k*l);
+
 
 
     
